@@ -2,14 +2,14 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item
         android:id="@+id/firstFragment"
-android:icon="@android:drawable/ic_input_add"
-    android:title="Calcular calificaciones"/>
+        android:icon="@android:drawable/ic_input_add"
+        android:title="Calcular calificaciones" />
     <item
         android:id="@+id/secondFragment"
-        android:icon="@android:drawable/ic_delete"
-    android:title="Mejores materias"/>
+        android:icon="@android:drawable/btn_star"
+        android:title="Mejores materias" />
     <item
         android:id="@+id/thirdFragment"
         android:icon="@android:drawable/ic_delete"
-    android:title="Materias a Extraoridinario"/>
+        android:title="Materias a Extraoridinario" />
 </menu>
